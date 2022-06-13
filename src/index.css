@@ -98,11 +98,11 @@ body {
 }
 
 .form-control-check label {
-  flex: 1;
+  flex: 12;
 }
 
 .form-control-check input {
-  flex: 2;
+  flex: 1;
   height: 20px;
 }
 
