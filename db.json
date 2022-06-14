@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Meditation",
+      "day": "Now",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Breathe",
+      "day": "Now",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Reincarnate",
+      "day": "Later",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
